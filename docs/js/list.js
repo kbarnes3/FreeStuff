@@ -21,7 +21,6 @@
                 { name: 'Pastry brush', photo: 'PastryBrush.jpg', },
                 { name: 'Apple corer', photo: 'AppleCorer.jpg', },
                 { name: 'Melon baller', photo: 'MelonBaller.jpg', },
-                { name: 'ZWILLING J.A. Henckels bread knife', photo: 'BreadKnife.jpg', },
                 { name: 'More forks, knifes, and spoons', photo: 'Dinnerware.jpg', },
                 { name: 'Pasta spoon', photo: 'PastaSpoon.jpg', },
                ], },
