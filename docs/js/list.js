@@ -20,7 +20,6 @@
                 { name: 'Can opener', photo: 'CanOpener.jpg', },
                 { name: 'Pastry brush', photo: 'PastryBrush.jpg', },
                 { name: 'Apple corer', photo: 'AppleCorer.jpg', },
-                { name: 'Melon baller', photo: 'MelonBaller.jpg', },
                 { name: 'More forks, knifes, and spoons', photo: 'Dinnerware.jpg', },
                 { name: 'Pasta spoon', photo: 'PastaSpoon.jpg', },
                ], },
