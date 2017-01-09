@@ -25,7 +25,6 @@
                 { name: 'ZWILLING J.A. Henckels bread knife', photo: 'BreadKnife.jpg', },
                 { name: 'More forks, knifes, and spoons', photo: 'Dinnerware.jpg', },
                 { name: 'Pasta spoon', photo: 'PastaSpoon.jpg', },
-                { name: 'Wooden spoons', photo: 'WoodenSpoons.jpg', },
                ], },
             { category: 'Grilling',
                things: [
