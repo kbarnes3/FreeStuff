@@ -3,9 +3,48 @@
 
     $(document).ready(function () {
         var all_stuff = [
-            { category: 'Kitchen',
+            { category: 'Glassware',
                things: [
-                { name: 'Nothing', },
+                { name: '8 Glass Tumblers, ribbed', },
+                { name: 'Set of 6 pairs of colored plastic cups', },
+                { name: 'Glass pitcher', },
+                { name: '8 Blue Mugs (still in box!)', },
+                { name: 'Mason jar', },
+                { name: 'Short, wide vase', },
+                { name: 'Microsoft water bottle', },
+                { name: 'Assorted glassware', },
+               ], },
+            { category: 'Utensils',
+               things: [
+                { name: '2 sets of dinnerware + dinnerware container', },
+                { name: 'Can opener', },
+                { name: 'Pastry brush', },
+                { name: 'Apple corer', },
+                { name: 'Melon baller', },
+                { name: 'Cake frosting tool'},
+                { name: 'Henckels bread knife'},
+                { name: 'More forks, knifes, and spoons', },
+                { name: 'Spatulas', },
+                { name: 'Pasta spoon', },
+                { name: 'Wooden spoons', },
+               ], },
+            { category: 'Grilling',
+               things: [
+                { name: 'Chefmaster™ Smokeless Indoor Stovetop Barbeque Grill',
+                  uri: 'http://www.sears.com/chefmaster-trade-smokeless-indoor-stovetop-barbeque-grill/p-SPM10978144115?sid=IDx20110310x00001i'
+                },
+                { name: 'Darth Vader Apron', },
+                { name: 'Magnet fridge bottle opener', },
+               ], },
+            { category: 'Camping',
+               things: [
+                { name: '15 Watt, 12 Volt Solar panel', },
+                { name: 'Coleman Rugged Family-Size Lantern', },
+               ], },
+            { category: 'Other',
+               things: [
+                { name: 'Hand Mixer', },
+                { name: 'Vegetable Steamer', }
                ], },
         ];
 
