@@ -36,7 +36,6 @@
             { category: 'Camping',
                things: [
                 { name: '15 Watt, 12 Volt Solar panel', photo: 'SolarPanel.jpg', },
-                { name: 'Coleman Rugged Family-Size Lantern', photo: 'Latern.jpg', },
                ], },
             { category: 'Other',
                things: [
