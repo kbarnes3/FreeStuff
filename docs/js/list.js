@@ -37,7 +37,6 @@
                ], },
             { category: 'Other',
                things: [
-                { name: 'Hand Mixer', photo: 'Mixer.jpg', },
                 { name: 'Insulated lunch bag from a Company Meeting', photo: 'LunchBag.jpg', },
                ], },
         ];
