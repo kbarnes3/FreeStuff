@@ -28,7 +28,6 @@
                 { name: 'Chefmaster™ Smokeless Indoor Stovetop Barbeque Grill', photo: 'ChefmasterTM.jpg',
                   uri: 'http://www.sears.com/chefmaster-trade-smokeless-indoor-stovetop-barbeque-grill/p-SPM10978144115?sid=IDx20110310x00001i'
                 },
-                { name: 'Darth Vader Apron', photo: 'Apron.jpg', },
                 { name: 'Magnet fridge bottle opener', photo: 'BottleOpener.jpg', },
                ], },
             { category: 'Camping',
