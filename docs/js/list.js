@@ -15,7 +15,6 @@
                ], },
             { category: 'Utensils',
                things: [
-                { name: '2 sets of dinnerware + dinnerware container', photo: 'DinnerwareContainer.jpg', },
                 { name: 'Can opener', photo: 'CanOpener.jpg', },
                 { name: 'Pastry brush', photo: 'PastryBrush.jpg', },
                 { name: 'Apple corer', photo: 'AppleCorer.jpg', },
