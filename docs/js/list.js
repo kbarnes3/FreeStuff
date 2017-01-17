@@ -3,38 +3,9 @@
 
     $(document).ready(function () {
         var all_stuff = [
-            { category: 'Glassware',
+            { category: 'Nothing here',
                things: [
-                { name: '8 Glass Tumblers, ribbed', photo: 'GlassTumblers.jpg', },
-                { name: 'Set of 6 pairs of colored plastic cups', photo: 'ColoredPlasticCups.jpg', },
-                { name: '8 Blue Mugs (still in box!)', photo: 'BlueMugs.jpg', },
-                { name: 'Mason jar', photo: 'MasonJar.jpg', },
-                { name: 'Short, wide vase', photo: 'Vase.jpg', },
-                { name: 'Microsoft water bottle', photo: 'MSFTWaterBottle.jpg', },
-                { name: 'Assorted glassware', photo: 'Glassware.jpg', },
-               ], },
-            { category: 'Utensils',
-               things: [
-                { name: 'Can opener', photo: 'CanOpener.jpg', },
-                { name: 'Pastry brush', photo: 'PastryBrush.jpg', },
-                { name: 'Apple corer', photo: 'AppleCorer.jpg', },
-                { name: 'More forks, knifes, and spoons', photo: 'Dinnerware.jpg', },
-                { name: 'Pasta spoon', photo: 'PastaSpoon.jpg', },
-               ], },
-            { category: 'Grilling',
-               things: [
-                { name: 'Chefmaster™ Smokeless Indoor Stovetop Barbeque Grill', photo: 'ChefmasterTM.jpg',
-                  uri: 'http://www.sears.com/chefmaster-trade-smokeless-indoor-stovetop-barbeque-grill/p-SPM10978144115?sid=IDx20110310x00001i'
-                },
-                { name: 'Magnet fridge bottle opener', photo: 'BottleOpener.jpg', },
-               ], },
-            { category: 'Camping',
-               things: [
-                { name: '15 Watt, 12 Volt Solar panel', photo: 'SolarPanel.jpg', },
-               ], },
-            { category: 'Other',
-               things: [
-                { name: 'Insulated lunch bag from a Company Meeting', photo: 'LunchBag.jpg', },
+                { name: 'Check back later', },
                ], },
         ];
 
