@@ -7,7 +7,6 @@
                things: [
                 { name: '8 Glass Tumblers, ribbed', photo: 'GlassTumblers.jpg', },
                 { name: 'Set of 6 pairs of colored plastic cups', photo: 'ColoredPlasticCups.jpg', },
-                { name: 'Glass pitcher', photo: 'Pitcher.jpg', },
                 { name: '8 Blue Mugs (still in box!)', photo: 'BlueMugs.jpg', },
                 { name: 'Mason jar', photo: 'MasonJar.jpg', },
                 { name: 'Short, wide vase', photo: 'Vase.jpg', },
